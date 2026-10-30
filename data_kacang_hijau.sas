@@ -1,6 +1,6 @@
 DATA DataPrak;
 INPUT blok $ rendam $ suhu $ tinggi @@;
-TITLE eHasil Prosedur Rancangan Faktorialf;
+TITLE ÂeHasil Prosedur Rancangan FaktorialÂf;
 CARDS;
 bl1 a1 b1 13.9 bl1 a1 b2 14.4 bl1 a1 b3 15.5
 bl1 a1 b1 12.4 bl1 a1 b2 14.6 bl1 a1 b3 14.3
